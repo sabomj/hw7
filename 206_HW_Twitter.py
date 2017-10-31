@@ -7,7 +7,7 @@ import twitter_info
 ## SI 206 - HW
 ## COMMENT WITH:
 ## Your section day/time: Wed 6-7
-## Any names of people you worked with on this assignment: Madi Sabo
+## Any names of people you worked with on this assignment: Christina Calcaterra
 
 
 ## Write code that uses the tweepy library to search for tweets with three different phrases of the
